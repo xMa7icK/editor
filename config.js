@@ -1162,7 +1162,7 @@ const double = Math.floor(Math.random() * 2) + 1
 		case 'qr':
 			if (mute || pvmte) return console.log('Ignorando comando [Silence]')
 			const qrco = body.slice(4)
-			await kill.sendFileFromUrl(from, `https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=${qrco}`, '', 'Su mensaje fue insertado en este QRCode, disfrute.\n\nBy samu330-iris.', id)
+			await kill.sendFileFromUrl(from, `https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=${qrco}`, '', 'Su mensaje fue insertado en este QRCode, disfrute.\n\nBy Matias-iris.', id)
 			break
 
 
