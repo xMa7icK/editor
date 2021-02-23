@@ -4,22 +4,13 @@ exports.help = help()
 function help() {
 	return `   *⎛ Mis comandos ⎠*
 
-_ℹ️ - 👑Grupo oficial de programadores de bots!_ */program*
+_ℹ️ - 👑Grupo oficial del dueño https://chat.whatsapp.com/GFmu1qRL5QZEehGPuT1vPa
 _ℹ️ - ✅Si quieres saber acerca de Íris o cómo construirlo, usa_ */About* .
 _ℹ️ - 🛑Si algún comando no funciona significa que el servidor se ha bloqueado y es necesario esperar a que vuelva._
 
 
-╔═══╗ _Modificador_
-║╔═╗║ _de bots_
-║╚══╦══╦╗╔╦╗╔╗ *Samu*
-╚══╗║╔╗║╚╝║║║║ *330*
-║╚═╝║╔╗║║║║╚╝║
-╚═══╩╝╚╩╩╩╩══╝
 ╔═══╦═══╦═══╗
-║╔═╗║╔═╗║╔═╗║
-╚╝╔╝╠╝╔╝║║║║║
-╔╗╚╗╠╗╚╗║║║║║
-║╚═╝║╚═╝║╚═╝║
+   *MATIAS*
 ╚═══╩═══╩═══╝
 
 👑Para empezar, usa el comando */samu*
@@ -458,7 +449,7 @@ _Descargar videos de instagram._
 
 *7 - ${prefix}tw <link twitter>*
 _Descargar videos de twitter._
-©Licensed by Samu330®
+©Licensed by Matias®
    █║▌│█│║▌║││█║▌║`
 }
 
@@ -656,19 +647,15 @@ Cuando tenga tiempo, publicaré tutoriales aquí e.e
 
 ¡Gracias por usar!
 
-Desarrollador oficial de este BOT: wa.me/+529984907794`
+Desarrollador del BOT: wa.me/+56976527581`
 }
 
 exports.donate = donate()
 function donate() {
     return `
-_No es necesario, pero si quieres contribuir, el paypal del creador de este bot es =_
+_No es necesario, pero si quieres contribuir, solo unete a mi grupo =_
 
-paypal.me/samu330
-
-_O solo regalame tu suscripcion:D =_ 
-
-https://www.youtube.com/channel/UCHD4T8Pfcv5PFVzsAbfAPZA
+https://chat.whatsapp.com/GFmu1qRL5QZEehGPuT1vPa
 `
 }
 
