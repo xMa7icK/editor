@@ -345,7 +345,7 @@ const double = Math.floor(Math.random() * 2) + 1
 		case 'samu330':
 		case 'samu':
 			//SI VAN A MODIFICAR EL BOT, PORFAVOR NO QUITAR NI MODIFICAR ESTA PARTE PORFAVOR, GRACIAS.
-    			await kill.reply(from, '😍🤗 *GRACIAS POR INTERESARTE EN MI* Y GRACIAS POR USAR MI BOT\n\n*TE GUSTARIA APOYARME?😖*\nPls no es complicado, solo te pido una suscripcion a mi canal:D\nSI?😰\nAIIII GRACIAS☺, AVER PS, AQUI TE DEJO MI CANAL:D\n\nhttps://www.youtube.com/channel/UCHD4T8Pfcv5PFVzsAbfAPZA\n\n_SI COMPARTES ME AYUDARIAS MAS_ *GRACIAS!😉*', id)
+    			await kill.reply(from, '😍🤗 *GRACIAS POR INTERESARTE EN MI* Y GRACIAS POR USAR MI BOT\n\n*TE GUSTARIA APOYARME?😖*\nPls no es complicado, solo te pido que te unas a mi grupo:D\nSI?😰\nAIIII GRACIAS☺, AVER PS, AQUI TE DEJO EL ENLACE:D\n\nhttps://https://chat.whatsapp.com/GFmu1qRL5QZEehGPuT1vPa\n\n_SI COMPARTES ME AYUDARIAS MAS_ *GRACIAS!😉*', id)
    			break
 			//________________________________________________________________________________________
 			
