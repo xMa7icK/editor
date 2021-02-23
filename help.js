@@ -16,7 +16,7 @@ _ℹ️ - 🛑Si algún comando no funciona significa que el servidor se ha bloq
 👑Para empezar, usa el comando */samu*
 
 🏆GRACIAS POR USAR MI BOT🏆
-_Samu te da las gracias, y quiere darte un insentivo por apoyarlo_❤
+_te doy las gracias, y quiere darte un insentivo por apoyarlo_❤
 
 *usa:* /belle *para reclamar tu recompensa💌*
 
